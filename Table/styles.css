@@ -1,0 +1,36 @@
+body{
+    /* background-color: lightblue; */
+    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fpool%2F&psig=AOvVaw276Z1ZXSMCQwOfO5oYswgY&ust=1675831345083000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLCmxb_Mgv0CFQAAAAAdAAAAABAE");
+}
+
+.Name{
+    font-style: italic;
+    font-family:sans-serif;
+    text-align: center;
+}
+
+table{
+    background-color: rgb(232, 196, 255);
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+th,td{
+    border: 1px solid red;
+}
+
+li{
+    font-weight: bold;
+    list-style: circle;
+}
+
+.Day {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+
+.time {
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
